@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/appconference/!svn/ver/856/trunk/libspeex
+END
+speex_preprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/appconference/!svn/ver/856/trunk/libspeex/speex_preprocess.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/appconference/!svn/ver/856/trunk/libspeex/misc.h
+END
+smallft.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/appconference/!svn/ver/856/trunk/libspeex/smallft.c
+END
+preprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/appconference/!svn/ver/856/trunk/libspeex/preprocess.c
+END
+smallft.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/appconference/!svn/ver/856/trunk/libspeex/smallft.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/appconference/!svn/ver/856/trunk/libspeex/misc.c
+END
