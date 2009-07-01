@@ -25,6 +25,9 @@
  * 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  */
 
+#include "app_conference.h"
+#include "common.h"
+
 #include "asterisk.h"
 
 // SVN revision number, provided by make
@@ -35,9 +38,6 @@
 static char *revision = REVISION;
 
 ASTERISK_FILE_VERSION(__FILE__, REVISION)
-
-#include "app_conference.h"
-#include "common.h"
 
 /*
  * a conference has n + 1 threads, where n is the number of
